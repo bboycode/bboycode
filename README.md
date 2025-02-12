@@ -2,7 +2,7 @@
 
 ## Welcome to My Github
 
-Hey there! I'm Britton, a passionate second-year Computer Science student from South Africa. Welcome to my GitHub repository, where I love to explore the fascinating realms of technology, cybersecurity, coding, and low-level programming. Here, you'll find an assortment of projects and contributions that reflect my enthusiasm for all things tech-related. Feel free to explore the repositories, delve into the code, and join me on this exciting journey as we unravel the intricacies of digital systems together. So, grab your favorite beverage, put on your coding hat, and let's embark on this adventure into the ever-evolving world of technology! Don't forget to leave a ⭐️ if you find something interesting!
+Hey there! I'm Britton, a passionate third-year Computer Science student from South Africa. Welcome to my GitHub repository, where I love to explore the fascinating realms of technology, cybersecurity, coding, and low-level programming. Here, you'll find an assortment of projects and contributions that reflect my enthusiasm for all things tech-related. Feel free to explore the repositories, delve into the code, and join me on this exciting journey as we unravel the intricacies of digital systems together. So, grab your favorite beverage, put on your coding hat, and let's embark on this adventure into the ever-evolving world of technology! Don't forget to leave a ⭐️ if you find something interesting!
 
 ---
 
